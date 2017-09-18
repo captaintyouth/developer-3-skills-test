@@ -1,0 +1,21 @@
+
+/* Mobile - General */
+@media only screen and (max-device-width: 992px) {
+	header {
+		height: 100px;
+	}
+	header .logo img {
+		margin-left: 0;
+		top: 0;
+	}
+	.content-wrap {
+		overflow: auto;
+		width: 100%;
+	}
+}
+
+/* Desktop */
+@media only screen and (min-device-width: 993px) {
+
+
+}
